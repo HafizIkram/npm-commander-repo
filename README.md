@@ -18,7 +18,7 @@ For example, to get all the available options for the split, run the following c
 
 This will output the following message:
 
-Usage: string-util split [options] <string>
+`Usage: string-util split [options] <string>
 
 Split a string into substrings and display as an array
 
@@ -26,7 +26,7 @@ Arguments:
   string                  string to split
 Options:
   -s, --separator <char>  separator character (default: ",")
-  -h, --help              display help for command
+  -h, --help              display help for command`
 
 
 
