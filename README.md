@@ -6,7 +6,7 @@ This is a simple demonstration of how to use [Commander.js](https://github.com/t
 
 To install the dependencies for this project, run the following command:
 
-npm install
+- npm install
 
 ## Usage
 
@@ -14,7 +14,7 @@ To use the CLI, run the `split.js` script with Node.js and pass in the desired c
 
 For example, to get all the available options for the split, run the following command:
 
-node string-util.js help split
+- node string-util.js help split
 
 This will output the following message:
 
